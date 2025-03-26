@@ -5,6 +5,8 @@ The **Titanic Survival Prediction Model** is a machine learning application that
 
 ---
 
+**LIVE DEMO : [Click Here](https://titanic-prediction-n59brd2wj3fsfynu85vdt3.streamlit.app/)
+
 ## 📂 **Project Structure**
 
 ```bash
